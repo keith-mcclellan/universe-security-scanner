@@ -20,7 +20,7 @@ To run the security scanner, you will also need:
 
 * A local Docker agent (either via docker-machine or otherwise) 
 
-Run `bash stage_security_scanner.sh [master_ip]`
+Run `bash stage_container_scanner.sh [master_ip]`
 
 The above command will do the following:
 
