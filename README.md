@@ -10,7 +10,7 @@ Capabilities:
 
 ## Install Prerequisites on Your Machine
 
-To run the demo setup script (`stage_security_scanner.sh`), the following pieces of software are expected to be available:
+To run the demo setup script (`stage_container_scanner.sh`), the following pieces of software are expected to be available:
 
 * A DC/OS cluster with one public node and two private nodes
 * DC/OS CLI
